@@ -66,6 +66,6 @@ intent(
     "Do you have a resume",
     "Where can I find (the|your|) resume", 
     p => {
-        p.play({command: "openURL", url: "/template/assets/pdf/alan-turing-jr-resume.pdf", target: "_blank"}, opts({force:true}));
+        p.play({command: "openURL", url: "assets/pdf/alan-turing-jr-resume.pdf", target: "_blank"}, opts({force:true}));
     }
 )
