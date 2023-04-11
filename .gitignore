@@ -1,0 +1,14 @@
+# ignore all files starting with . or ~
+.*
+~*
+
+# ignore OS generated files
+ehthumbs.db
+Thumbs.db
+
+# ignore Editor files
+*.sublime-project
+*.sublime-workspace
+*.komodoproject
+
+!.gitignore
