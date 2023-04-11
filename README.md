@@ -39,7 +39,7 @@ To get started with the project:
 
 To view the dialog script used in this project, do either of the following:
 
-- View the dialog scripts in the `dialog scripts` folder
+- View the dialog scripts in the `dialog-scripts` folder
 - <a href="https://studio.alan.app/register" target="_blank">Sign up for Alan Studio</a> and select **Create project** > **Web Chat Example**
 
 
