@@ -1,0 +1,57 @@
+
+/*=======================================
+Template Design By MarkUps	
+Author URI : http://www.markups.io/
+========================================*/
+
+
+
+.mu-primary-btn:hover,
+.mu-primary-btn:focus,
+.mu-filter-link:hover,
+.mu-filter-imglink:hover,
+.mu-filter-link:focus,
+.mu-filter-imglink:focus,
+.mu-simplefilter li:hover,
+.mu-simplefilter li.active,
+.mu-copy-right a:hover,
+.mu-copy-right a:focus {
+	color: #0D1940;
+}
+
+.mu-send-msg-btn:hover,
+.mu-send-msg-btn:focus,
+.mu-social-media a:hover,
+.mu-social-media a:focus {
+	border: 1px solid #0B3862;
+	color: #0B3862;
+}
+
+.mu-testimonial-slide .slick-dots li button:hover,
+.mu-testimonial-slide .slick-dots li button:focus,
+.mu-testimonial-slide .slick-dots li.slick-active button,
+.mu-resume-btn:hover,
+.mu-resume-btn:focus,
+.mu-header-dot,
+.mu-filter-item-content,
+.mu-contact-top-single .mu-icon,
+.mu-skill-progress-bar .mu-pro-bar,
+#mu-featured-slider,
+#mu-header.mu-fixed-nav {
+	background-color: #0B3862;
+}
+
+.mu-contact-form .form-control:focus {
+	border: 1px solid #0B3862;    
+} 
+
+.mu-resume-btn,
+.mu-service-icon-box {
+	border: 2px solid #0B3862;
+	color: #0B3862;
+}
+
+
+.mu-pro-bar .proggress {
+	background-color: #0B3862!important;
+}
