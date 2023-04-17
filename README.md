@@ -1,8 +1,8 @@
-# Alan AI: Voice and Text AI Chat for Web 
+# Alan AI: Text AI Chat for Web 
 
 [Alan Platform](https://alan.app/) • [Alan Studio](https://studio.alan.app/register) • [Docs](https://alan.app/docs)
 
-This sample project demonstrates how to quickly add a voice and text AI chat to your web page, website or web app.
+This sample project demonstrates how to quickly add a text AI chat to your web page, website or web app.
 
 ## Features
 
