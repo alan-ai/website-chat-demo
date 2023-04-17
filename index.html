@@ -557,29 +557,23 @@
 	 </script>
 	 <!-- End of filtering -->
 	
-	<!-- Alan button block-->
-    
-	
+	<!-- Alan button block-->	
 	<script type="text/javascript"
 	 src="https://studio.alan.app/web/lib/alan_lib.min.js"></script>
 	<script>
 	  var alanBtnInstance = alanBtn({
-		key: "b0b73f3c20062abe4d0bf347580da6fd2e956eca572e1d8b807a3e2338fdd0dc/prod",
+        key: "b0b73f3c20062abe4d0bf347580da6fd2e956eca572e1d8b807a3e2338fdd0dc/prod",
 		onCommand: function (commandData) {
-
-                if (commandData && commandData.command === 'openURL') {
-                    if (commandData.target === '_blank'){
-                        window.open(commandData.url,'_newtab' + Math.floor(Math.random()*999999));
-                    } else {
-                        window.location.href = commandData.url;
-                    }
-
-                } else if (commandData && commandData.command === 'filterPortfolio') {
-				    console.log('Got the filter command');
-					console.log(commandData.command, commandData.value);
-					filter(commandData.value);
-				} 
-            },
+          if (commandData && commandData.command === 'openURL') {
+            if (commandData.target === '_blank'){
+              window.open(commandData.url,'_newtab' + Math.floor(Math.random()*999999));
+            } else {
+              window.location.href = commandData.url;
+            }
+		  } else if (commandData && commandData.command === 'filterPortfolio') {
+            filter(commandData.value);
+          } 
+        },
 		rootEl: document.getElementById("alan-btn"),
 	  });
 	</script>

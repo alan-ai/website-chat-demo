@@ -43,13 +43,15 @@ To view the dialog script used in this project, do either of the following:
 - <a href="https://studio.alan.app/register" target="_blank">Sign up for Alan Studio</a> and select **Create project** > **Web Chat Example**
 
 
-## Folder structure
+## What's inside
 
 The project is structured in the following way:
 
 * `index.html`: web page with the web chat added
 * `dialog-scripts`: dialog scripts for the web chat conversational experience
 * `assets`: content-related assets (images, PDFs, JS files and so on)
+
+You can replace the Alan AI SDK key with your own key in the `index.html` file, the `Alan button block` section.
 
 ## Live demo
 
