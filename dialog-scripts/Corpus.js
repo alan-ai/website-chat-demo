@@ -1,5 +1,5 @@
 // This example demonstrates how to add a text AI chat to your web page, website or web app.
-// In this dialog script, you can find commands to navigate in the web page, web and text corpus for Q&A answering.
+// In this example, you can find corpus for Q&A answering and commands to navigate in the web page.
 // Get the web page with the text AI chat for this example here: https://github.com/alan-ai/website-chat-demo.
 // Check out a live demo at: https://alan-ai.github.io/website-chat-demo/.
 
