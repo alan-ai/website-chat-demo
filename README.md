@@ -57,6 +57,10 @@ You can replace the Alan AI SDK key with your own key in the `index.html` file, 
 
 Check out the live web chat demo here: [https://alan-ai.github.io/website-chat-demo/](https://alan-ai.github.io/website-chat-demo/)
 
+## Docs
+
+Find out how to enable and customize the text chat with Alan AI here: [Enabling the text chat](https://alan.app/docs/usage/button/customization/#enabling-the-text-chat).
+
 
 ## Have questions?
 
