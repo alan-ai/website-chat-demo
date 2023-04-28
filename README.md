@@ -1,6 +1,6 @@
 # Alan AI: Text AI Chat for Web 
 
-[Alan Platform](https://alan.app/) • [Alan Studio](https://studio.alan.app/register) • [Docs](https://alan.app/docs)
+[Alan AI Platform](https://alan.app/) • [Alan AI Studio](https://studio.alan.app/register) • [Docs](https://alan.app/docs)
 
 This sample project demonstrates how to quickly add a text AI chat to your web page, website or web app.
 
@@ -40,7 +40,7 @@ To get started with the project:
 To view the dialog script used in this project, do either of the following:
 
 - View the dialog scripts in the `dialog-scripts` folder
-- <a href="https://studio.alan.app/register" target="_blank">Sign up for Alan Studio</a> and select **Create project** > **Web Chat Example**
+- <a href="https://studio.alan.app/register" target="_blank">Sign up for Alan AI Studio</a> and select **Create project** > **Web Chat Example**
 
 
 ## What's inside
